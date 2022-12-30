@@ -5,9 +5,11 @@
 + 👯 I’m looking to collaborate on Fullstack or Backend projects.
 + 📫 How to reach me: **omniafares133@gmail.com**
 
-<h3 align="left"Get In Touch</h3>
+<h3 align="left">Get In Touch : 
+<a href="https://www.linkedin.com/in/omnia-fares-577846213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-hani-616284209/" height="20" width="30" /></a> 
+</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omnia-fares-577846213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-hani-616284209/" height="30" width="40" /></a>
+
 </p>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OmniaFares&show_icons=true&locale=en&bg_color=2e3941&text_color=ffffff&layout=compact)  
