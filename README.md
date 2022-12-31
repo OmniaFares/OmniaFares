@@ -35,7 +35,7 @@
 
 <h3> :fire: My Stats : </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaFares&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaFares&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmniaFares&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat)  
 
